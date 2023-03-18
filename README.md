@@ -37,9 +37,11 @@
   After installing all needed packages, then type node server.js to start the application. Once the application is running it is strongly reccomended to use an API client tool like Insomnia to test out functionality of application. Follow the video guides below for a breakdown. The root url to make calls will be: (http://localhost:3001/api). Video guides will further demonstrate how to customize url for different methods. 
   
   Find all products, tags, or categories:
+  
   [Module-13-E-BackEnd-Part-findAll.webm](https://user-images.githubusercontent.com/119230237/226126766-3c9df9e3-b787-4b36-b303-20888ac0b8a3.webm)
   
   Find One specific product, tag or category:
+  
   [Module-13-E-BackEnd-Part-findOne.webm](https://user-images.githubusercontent.com/119230237/226126792-2603e328-fbab-435f-b660-22304cba2ad9.webm)
   
   Update, Create and Delete methods for Products: 
