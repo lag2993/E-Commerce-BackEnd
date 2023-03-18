@@ -2,7 +2,7 @@
 
   ## Description
   
-  As a developer, I want to design the back end for an e-commerce website that uses the latest techonlogies so that the company can compete with other e-commerce companies. 
+  As a developer, I want to design the back end for an e-commerce website that uses the latest techonlogies so that a company can compete with other e-commerce companies. 
 
   ## Table of Contents:
 
